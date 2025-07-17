@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.2](https://github.com/zenphporg/zenphporg/compare/v1.0.1...v1.0.2) (2025-07-17)
+
+
+### Bug Fixes
+
+* make head title dynamic ([cb9e2f2](https://github.com/zenphporg/zenphporg/commit/cb9e2f2d64488c8935be5d7b29a841ede8c7ceb7))
+
+
+### Maintenance
+
+* lang var missing ([8d0602e](https://github.com/zenphporg/zenphporg/commit/8d0602e35bec604325be89abc14e81d0f990ce6a))
+* **workflows:** remove errant tests.yml ([43a43ad](https://github.com/zenphporg/zenphporg/commit/43a43ade67e16c225a243e66b09f91aa380e79d9))
+
 ## [1.0.1](https://github.com/zenphporg/zenphporg/compare/v1.0.0...v1.0.1) (2025-07-17)
 
 
