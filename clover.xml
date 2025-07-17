@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1752735390">
-  <project timestamp="1752735390">
+<coverage generated="1752735628">
+  <project timestamp="1752735628">
     <package name="App\Http\Controllers\Auth">
       <file name="/Users/vince/WWW/zenphp/sites/zenphporg/app/Http/Controllers/Auth/AuthenticatedSessionController.php">
         <class name="App\Http\Controllers\Auth\AuthenticatedSessionController" namespace="App\Http\Controllers\Auth">
