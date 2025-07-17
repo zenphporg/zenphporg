@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.1](https://github.com/zenphporg/zenphporg/compare/v1.0.0...v1.0.1) (2025-07-17)
+
+
+### Bug Fixes
+
+* move bgimage to .welcome-page ([2c8f89c](https://github.com/zenphporg/zenphporg/commit/2c8f89c2081f8325b604d2adf302d676b958b6b5))
+
+
+### Maintenance
+
+* welcome page typos ([4b78ae5](https://github.com/zenphporg/zenphporg/commit/4b78ae5cea78e781f30d05261d41620ebe00bbbe))
+
 # 1.0.0 (2025-07-17)
 
 
