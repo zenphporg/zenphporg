@@ -94,7 +94,7 @@ const releaseNotesGeneratorOptions = {
 export default {
   debug: true,
   branches: ['+([0-9])?(.{+([0-9]),x}).x', 'main'],
-  repositoryUrl: 'https://github.com/druidweb/druid',
+  repositoryUrl: 'https://github.com/zenphporg/zenphporg',
 
   plugins: [
     // analyze commits with conventional-changelog

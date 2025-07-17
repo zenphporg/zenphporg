@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { usePage } from '@inertiajs/vue3';
 import type { SharedData } from '@/types';
+import { usePage } from '@inertiajs/vue3';
 
 const page = usePage<SharedData>();
 const appName = computed(() => page.props.name);
@@ -18,9 +18,7 @@ const appName = computed(() => page.props.name);
       <div class="mb-12">
         <h2 class="mb-4 text-xl font-medium text-slate-400 md:text-2xl">{{ __('Coming Soon') }}</h2>
         <h1 class="mb-4 text-2xl font-semibold text-white md:text-4xl">{{ appName }}</h1>
-        <p class="text-lg text-slate-400 md:text-xl">
-          {{ __("We're working hard to bring you something amazing. Stay tuned!") }}'
-        </p>
+        <p class="text-lg text-slate-400 md:text-xl">{{ __("We're working hard to bring you something amazing. Stay tuned!") }}'</p>
       </div>
 
       <!-- Optional Contact Info -->
