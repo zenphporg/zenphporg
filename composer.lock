@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5d38c18ad68f250e2b92a958e68d151c",
+    "content-hash": "2378812a38dca6c9755afdf9f7c384cb",
     "packages": [
         {
             "name": "brick/math",
@@ -7661,16 +7661,16 @@
         },
         {
             "name": "druidweb/coming-soon",
-            "version": "v1.0.3",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/druidweb/coming-soon.git",
-                "reference": "34a2be48ef54ceab0489294cdd4633e43ccf50ae"
+                "reference": "96a602edca4b3ccbd735f1df6d761d33d2e951db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/druidweb/coming-soon/zipball/34a2be48ef54ceab0489294cdd4633e43ccf50ae",
-                "reference": "34a2be48ef54ceab0489294cdd4633e43ccf50ae",
+                "url": "https://api.github.com/repos/druidweb/coming-soon/zipball/96a602edca4b3ccbd735f1df6d761d33d2e951db",
+                "reference": "96a602edca4b3ccbd735f1df6d761d33d2e951db",
                 "shasum": ""
             },
             "require-dev": {
@@ -7705,9 +7705,9 @@
             "description": "Coming soon page and image publisher for Jetstream Labs projects.",
             "support": {
                 "issues": "https://github.com/druidweb/coming-soon/issues",
-                "source": "https://github.com/druidweb/coming-soon/tree/v1.0.3"
+                "source": "https://github.com/druidweb/coming-soon/tree/v1.0.5"
             },
-            "time": "2025-07-13T14:36:32+00:00"
+            "time": "2025-07-17T07:46:45+00:00"
         },
         {
             "name": "fakerphp/faker",
