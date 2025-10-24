@@ -6,6 +6,7 @@
     ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "content-hash": "5cc0b5611e66c61bbfeff7d95d24acb1",
 =======
     "content-hash": "2378812a38dca6c9755afdf9f7c384cb",
@@ -13,6 +14,9 @@
 =======
     "content-hash": "2378812a38dca6c9755afdf9f7c384cb",
 >>>>>>> larastan-3.7.2
+=======
+    "content-hash": "2378812a38dca6c9755afdf9f7c384cb",
+>>>>>>> inertia-laravel-2.0.10
     "packages": [
         {
             "name": "brick/math",
@@ -1832,6 +1836,7 @@
             "name": "laravel/framework",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "version": "v12.35.1",
             "source": {
                 "type": "git",
@@ -1866,6 +1871,18 @@
                 "url": "https://api.github.com/repos/laravel/framework/zipball/7f61e8679f9142f282a0184ac7ef9e3834bfd023",
                 "reference": "7f61e8679f9142f282a0184ac7ef9e3834bfd023",
 >>>>>>> larastan-3.7.2
+=======
+            "version": "v12.31.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "281b711710c245dd8275d73132e92635be3094df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/281b711710c245dd8275d73132e92635be3094df",
+                "reference": "281b711710c245dd8275d73132e92635be3094df",
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -1980,6 +1997,7 @@
                 "opis/json-schema": "^2.4.1",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "orchestra/testbench-core": "^10.7.0",
 =======
                 "orchestra/testbench-core": "^10.6.5",
@@ -1987,6 +2005,9 @@
 =======
                 "orchestra/testbench-core": "^10.6.5",
 >>>>>>> larastan-3.7.2
+=======
+                "orchestra/testbench-core": "^10.6.5",
+>>>>>>> inertia-laravel-2.0.10
                 "pda/pheanstalk": "^5.0.6|^7.0.0",
                 "php-http/discovery": "^1.15",
                 "phpstan/phpstan": "^2.0",
@@ -2082,6 +2103,7 @@
             },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-10-23T15:25:03+00:00"
 =======
             "time": "2025-09-04T14:58:12+00:00"
@@ -2089,6 +2111,9 @@
 =======
             "time": "2025-09-18T21:07:07+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-23T15:33:04+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "laravel/prompts",
@@ -2215,6 +2240,7 @@
         },
         {
             "name": "laravel/serializable-closure",
+<<<<<<< HEAD
             "version": "v2.0.6",
             "source": {
                 "type": "git",
@@ -2225,6 +2251,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/038ce42edee619599a1debb7e81d7b3759492819",
                 "reference": "038ce42edee619599a1debb7e81d7b3759492819",
+=======
+            "version": "v2.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/serializable-closure.git",
+                "reference": "3832547db6e0e2f8bb03d4093857b378c66eceed"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/serializable-closure/zipball/3832547db6e0e2f8bb03d4093857b378c66eceed",
+                "reference": "3832547db6e0e2f8bb03d4093857b378c66eceed",
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -2272,7 +2310,11 @@
                 "issues": "https://github.com/laravel/serializable-closure/issues",
                 "source": "https://github.com/laravel/serializable-closure"
             },
+<<<<<<< HEAD
             "time": "2025-10-09T13:42:30+00:00"
+=======
+            "time": "2025-09-22T17:29:40+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "laravel/tinker",
@@ -3566,6 +3608,7 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "name": "phpoption/phpoption",
             "version": "1.9.4",
             "source": {
@@ -3585,6 +3628,17 @@
             },
             "dist": {
                 "type": "zip",
+=======
+            "name": "phiki/phiki",
+            "version": "v2.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phikiphp/phiki.git",
+                "reference": "160785c50c01077780ab217e5808f00ab8f05a13"
+            },
+            "dist": {
+                "type": "zip",
+>>>>>>> inertia-laravel-2.0.10
                 "url": "https://api.github.com/repos/phikiphp/phiki/zipball/160785c50c01077780ab217e5808f00ab8f05a13",
                 "reference": "160785c50c01077780ab217e5808f00ab8f05a13",
                 "shasum": ""
@@ -3656,7 +3710,10 @@
             },
             "dist": {
                 "type": "zip",
+<<<<<<< HEAD
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/638a154f8d4ee6a5cfa96d6a34dfbe0cffa9566d",
                 "reference": "638a154f8d4ee6a5cfa96d6a34dfbe0cffa9566d",
                 "shasum": ""
@@ -4860,6 +4917,9 @@
             "name": "symfony/console",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "version": "v7.3.4",
             "source": {
                 "type": "git",
@@ -4870,6 +4930,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/console/zipball/2b9c5fafbac0399a20a2e82429e2bd735dcfb7db",
                 "reference": "2b9c5fafbac0399a20a2e82429e2bd735dcfb7db",
+<<<<<<< HEAD
 =======
             "version": "v7.3.3",
             "source": {
@@ -4894,6 +4955,8 @@
                 "url": "https://api.github.com/repos/symfony/console/zipball/cb0102a1c5ac3807cf3fdf8bea96007df7fdbea7",
                 "reference": "cb0102a1c5ac3807cf3fdf8bea96007df7fdbea7",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -4960,6 +5023,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/console/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/console/tree/v7.3.3"
@@ -4967,6 +5031,9 @@
 =======
                 "source": "https://github.com/symfony/console/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/console/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -4988,6 +5055,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-09-22T15:31:00+00:00"
 =======
             "time": "2025-08-25T06:35:40+00:00"
@@ -4995,6 +5063,9 @@
 =======
             "time": "2025-08-25T06:35:40+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-22T15:31:00+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "symfony/css-selector",
@@ -5132,6 +5203,9 @@
             "name": "symfony/error-handler",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "version": "v7.3.4",
             "source": {
                 "type": "git",
@@ -5142,6 +5216,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/error-handler/zipball/99f81bc944ab8e5dae4f21b4ca9972698bbad0e4",
                 "reference": "99f81bc944ab8e5dae4f21b4ca9972698bbad0e4",
+<<<<<<< HEAD
 =======
             "version": "v7.3.2",
             "source": {
@@ -5166,6 +5241,8 @@
                 "url": "https://api.github.com/repos/symfony/error-handler/zipball/0b31a944fcd8759ae294da4d2808cbc53aebd0c3",
                 "reference": "0b31a944fcd8759ae294da4d2808cbc53aebd0c3",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -5215,6 +5292,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/error-handler/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/error-handler/tree/v7.3.2"
@@ -5222,6 +5300,9 @@
 =======
                 "source": "https://github.com/symfony/error-handler/tree/v7.3.2"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/error-handler/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -5243,6 +5324,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-09-11T10:12:26+00:00"
 =======
             "time": "2025-07-07T08:17:57+00:00"
@@ -5250,6 +5332,9 @@
 =======
             "time": "2025-07-07T08:17:57+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-11T10:12:26+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "symfony/event-dispatcher",
@@ -5553,6 +5638,9 @@
             "name": "symfony/http-foundation",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "version": "v7.3.4",
             "source": {
                 "type": "git",
@@ -5563,6 +5651,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/http-foundation/zipball/c061c7c18918b1b64268771aad04b40be41dd2e6",
                 "reference": "c061c7c18918b1b64268771aad04b40be41dd2e6",
+<<<<<<< HEAD
 =======
             "version": "v7.3.3",
             "source": {
@@ -5587,6 +5676,8 @@
                 "url": "https://api.github.com/repos/symfony/http-foundation/zipball/7475561ec27020196c49bb7c4f178d33d7d3dc00",
                 "reference": "7475561ec27020196c49bb7c4f178d33d7d3dc00",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -5638,6 +5729,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/http-foundation/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/http-foundation/tree/v7.3.3"
@@ -5645,6 +5737,9 @@
 =======
                 "source": "https://github.com/symfony/http-foundation/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/http-foundation/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -5666,6 +5761,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "time": "2025-09-16T08:38:17+00:00"
         },
         {
@@ -5680,6 +5778,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/http-kernel/zipball/b796dffea7821f035047235e076b60ca2446e3cf",
                 "reference": "b796dffea7821f035047235e076b60ca2446e3cf",
+<<<<<<< HEAD
 =======
             "time": "2025-08-20T08:04:18+00:00"
         },
@@ -5712,6 +5811,8 @@
                 "url": "https://api.github.com/repos/symfony/http-kernel/zipball/72c304de37e1a1cec6d5d12b81187ebd4850a17b",
                 "reference": "72c304de37e1a1cec6d5d12b81187ebd4850a17b",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -5798,6 +5899,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/http-kernel/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/http-kernel/tree/v7.3.3"
@@ -5805,6 +5907,9 @@
 =======
                 "source": "https://github.com/symfony/http-kernel/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/http-kernel/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -5826,6 +5931,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "time": "2025-09-27T12:32:17+00:00"
         },
         {
@@ -5840,6 +5948,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/mailer/zipball/ab97ef2f7acf0216955f5845484235113047a31d",
                 "reference": "ab97ef2f7acf0216955f5845484235113047a31d",
+<<<<<<< HEAD
 =======
             "time": "2025-08-29T08:23:45+00:00"
         },
@@ -5872,6 +5981,8 @@
                 "url": "https://api.github.com/repos/symfony/mailer/zipball/a32f3f45f1990db8c4341d5122a7d3a381c7e575",
                 "reference": "a32f3f45f1990db8c4341d5122a7d3a381c7e575",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -5924,6 +6035,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/mailer/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/mailer/tree/v7.3.3"
@@ -5931,6 +6043,9 @@
 =======
                 "source": "https://github.com/symfony/mailer/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/mailer/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -5952,6 +6067,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "time": "2025-09-17T05:51:54+00:00"
         },
         {
@@ -5966,6 +6084,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/mime/zipball/b1b828f69cbaf887fa835a091869e55df91d0e35",
                 "reference": "b1b828f69cbaf887fa835a091869e55df91d0e35",
+<<<<<<< HEAD
 =======
             "time": "2025-08-13T11:49:31+00:00"
         },
@@ -5998,6 +6117,8 @@
                 "url": "https://api.github.com/repos/symfony/mime/zipball/e0a0f859148daf1edf6c60b398eb40bfc96697d1",
                 "reference": "e0a0f859148daf1edf6c60b398eb40bfc96697d1",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -6054,6 +6175,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/mime/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/mime/tree/v7.3.2"
@@ -6061,6 +6183,9 @@
 =======
                 "source": "https://github.com/symfony/mime/tree/v7.3.2"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/mime/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -6082,6 +6207,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-09-16T08:38:17+00:00"
 =======
             "time": "2025-07-15T13:41:35+00:00"
@@ -6089,6 +6215,9 @@
 =======
             "time": "2025-07-15T13:41:35+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-16T08:38:17+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -7083,6 +7212,9 @@
             "name": "symfony/process",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "version": "v7.3.4",
             "source": {
                 "type": "git",
@@ -7093,6 +7225,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/process/zipball/f24f8f316367b30810810d4eb30c543d7003ff3b",
                 "reference": "f24f8f316367b30810810d4eb30c543d7003ff3b",
+<<<<<<< HEAD
 =======
             "version": "v7.3.3",
             "source": {
@@ -7117,6 +7250,8 @@
                 "url": "https://api.github.com/repos/symfony/process/zipball/32241012d521e2e8a9d713adb0812bb773b907f1",
                 "reference": "32241012d521e2e8a9d713adb0812bb773b907f1",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -7150,6 +7285,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/process/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/process/tree/v7.3.3"
@@ -7157,6 +7293,9 @@
 =======
                 "source": "https://github.com/symfony/process/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/process/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -7178,6 +7317,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "time": "2025-09-11T10:12:26+00:00"
         },
         {
@@ -7192,6 +7334,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/routing/zipball/8dc648e159e9bac02b703b9fbd937f19ba13d07c",
                 "reference": "8dc648e159e9bac02b703b9fbd937f19ba13d07c",
+<<<<<<< HEAD
 =======
             "time": "2025-08-18T09:42:54+00:00"
         },
@@ -7224,6 +7367,8 @@
                 "url": "https://api.github.com/repos/symfony/routing/zipball/7614b8ca5fa89b9cd233e21b627bfc5774f586e4",
                 "reference": "7614b8ca5fa89b9cd233e21b627bfc5774f586e4",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -7277,6 +7422,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/routing/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/routing/tree/v7.3.2"
@@ -7284,6 +7430,9 @@
 =======
                 "source": "https://github.com/symfony/routing/tree/v7.3.2"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/routing/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -7305,6 +7454,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-09-11T10:12:26+00:00"
 =======
             "time": "2025-07-15T11:36:08+00:00"
@@ -7312,6 +7462,9 @@
 =======
             "time": "2025-07-15T11:36:08+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-11T10:12:26+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "symfony/service-contracts",
@@ -7400,6 +7553,9 @@
             "name": "symfony/string",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "version": "v7.3.4",
             "source": {
                 "type": "git",
@@ -7410,6 +7566,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/string/zipball/f96476035142921000338bad71e5247fbc138872",
                 "reference": "f96476035142921000338bad71e5247fbc138872",
+<<<<<<< HEAD
 =======
             "version": "v7.3.3",
             "source": {
@@ -7434,6 +7591,8 @@
                 "url": "https://api.github.com/repos/symfony/string/zipball/17a426cce5fd1f0901fefa9b2a490d0038fd3c9c",
                 "reference": "17a426cce5fd1f0901fefa9b2a490d0038fd3c9c",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -7492,6 +7651,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/string/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/string/tree/v7.3.3"
@@ -7499,6 +7659,9 @@
 =======
                 "source": "https://github.com/symfony/string/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/string/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -7520,6 +7683,9 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "time": "2025-09-11T14:36:48+00:00"
         },
         {
@@ -7534,6 +7700,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/translation/zipball/ec25870502d0c7072d086e8ffba1420c85965174",
                 "reference": "ec25870502d0c7072d086e8ffba1420c85965174",
+<<<<<<< HEAD
 =======
             "time": "2025-08-25T06:35:40+00:00"
         },
@@ -7566,6 +7733,8 @@
                 "url": "https://api.github.com/repos/symfony/translation/zipball/e0837b4cbcef63c754d89a4806575cada743a38d",
                 "reference": "e0837b4cbcef63c754d89a4806575cada743a38d",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -7634,6 +7803,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/translation/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/translation/tree/v7.3.3"
@@ -7641,6 +7811,9 @@
 =======
                 "source": "https://github.com/symfony/translation/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/translation/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -7662,6 +7835,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-09-07T11:39:36+00:00"
 =======
             "time": "2025-08-01T21:02:37+00:00"
@@ -7669,6 +7843,9 @@
 =======
             "time": "2025-08-01T21:02:37+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-07T11:39:36+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "symfony/translation-contracts",
@@ -7826,6 +8003,9 @@
             "name": "symfony/var-dumper",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> inertia-laravel-2.0.10
             "version": "v7.3.4",
             "source": {
                 "type": "git",
@@ -7836,6 +8016,7 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/var-dumper/zipball/b8abe7daf2730d07dfd4b2ee1cecbf0dd2fbdabb",
                 "reference": "b8abe7daf2730d07dfd4b2ee1cecbf0dd2fbdabb",
+<<<<<<< HEAD
 =======
             "version": "v7.3.3",
             "source": {
@@ -7860,6 +8041,8 @@
                 "url": "https://api.github.com/repos/symfony/var-dumper/zipball/34d8d4c4b9597347306d1ec8eb4e1319b1e6986f",
                 "reference": "34d8d4c4b9597347306d1ec8eb4e1319b1e6986f",
 >>>>>>> larastan-3.7.2
+=======
+>>>>>>> inertia-laravel-2.0.10
                 "shasum": ""
             },
             "require": {
@@ -7915,6 +8098,7 @@
             "support": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/var-dumper/tree/v7.3.4"
 =======
                 "source": "https://github.com/symfony/var-dumper/tree/v7.3.3"
@@ -7922,6 +8106,9 @@
 =======
                 "source": "https://github.com/symfony/var-dumper/tree/v7.3.3"
 >>>>>>> larastan-3.7.2
+=======
+                "source": "https://github.com/symfony/var-dumper/tree/v7.3.4"
+>>>>>>> inertia-laravel-2.0.10
             },
             "funding": [
                 {
@@ -7943,6 +8130,7 @@
             ],
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2025-09-11T10:12:26+00:00"
 =======
             "time": "2025-08-13T11:49:31+00:00"
@@ -7950,6 +8138,9 @@
 =======
             "time": "2025-08-13T11:49:31+00:00"
 >>>>>>> larastan-3.7.2
+=======
+            "time": "2025-09-11T10:12:26+00:00"
+>>>>>>> inertia-laravel-2.0.10
         },
         {
             "name": "tightenco/ziggy",
