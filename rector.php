@@ -22,7 +22,6 @@ return RectorConfig::configure()
     naming: true,
     earlyReturn: true,
     instanceOf: true,
-    strictBooleans: true
   )
   ->withPhpSets(php84: true)
   ->withRules([
