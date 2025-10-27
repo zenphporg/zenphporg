@@ -11119,16 +11119,16 @@
         },
         {
             "name": "zenphp/zorah",
-            "version": "v1.0.5",
+            "version": "v1.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zenphporg/zorah.git",
-                "reference": "63cbcea51a3dedd5f10fac725608c9a12b0c825f"
+                "reference": "90e0f7e0bd10cea15535e73b56b470163f86cd59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zenphporg/zorah/zipball/63cbcea51a3dedd5f10fac725608c9a12b0c825f",
-                "reference": "63cbcea51a3dedd5f10fac725608c9a12b0c825f",
+                "url": "https://api.github.com/repos/zenphporg/zorah/zipball/90e0f7e0bd10cea15535e73b56b470163f86cd59",
+                "reference": "90e0f7e0bd10cea15535e73b56b470163f86cd59",
                 "shasum": ""
             },
             "require": {
@@ -11175,9 +11175,9 @@
             "description": "Add your Laravel language translations to your asset pipeline for use in Javascript packages like Vue or React.",
             "support": {
                 "issues": "https://github.com/zenphporg/zorah/issues",
-                "source": "https://github.com/zenphporg/zorah/tree/v1.0.5"
+                "source": "https://github.com/zenphporg/zorah/tree/v1.0.7"
             },
-            "time": "2025-07-11T09:08:24+00:00"
+            "time": "2025-10-24T14:48:31+00:00"
         }
     ],
     "aliases": [],
