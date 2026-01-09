@@ -5,7 +5,7 @@ import './types/ziggy.js.d.ts';
 
 import { createInertiaApp, Head, Link } from '@inertiajs/vue3';
 import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
-import { createApp } from 'vue';
+import { createApp, DefineComponent, h } from 'vue';
 import type { Config } from 'ziggy-js';
 import { ZiggyVue } from 'ziggy-js';
 import { trans, ZorahVue } from 'zorah-js';
@@ -23,7 +23,7 @@ if (typeof window !== 'undefined') {
 
 createInertiaApp({
   title: (title) => `${title} - ${appName}`,
-  resolve: (name) => resolvePageComponent(`./pages/${name}.vue`, import.meta.glob('./pages/**/*.vue')),
+  resolve: (name) => resolvePageComponent(`./pages/${name}.vue`, import.meta.glob<DefineComponent>('./pages/**/*.vue')),
   setup({ el, App, props, plugin }) {
     const app = createApp({ render: () => h(App, props) });
 
